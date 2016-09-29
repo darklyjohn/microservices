@@ -1,4 +1,4 @@
-package be.manucci.applicationms;
+package be.manucci.applicationms.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
