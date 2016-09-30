@@ -1,4 +1,4 @@
-package be.manucci.applicationms;
+package be.manucci.applicationms.resources;
 
 import be.manucci.applicationms.domain.App;
 import be.manucci.applicationms.repository.IAppRepository;
